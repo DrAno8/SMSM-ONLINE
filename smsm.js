@@ -1,5 +1,5 @@
 const Discord = require("discord.js"); 
-const smsm = new Discord.Client();
+const smsm = new Discord.Client(844118305722597396);
 const smsm2 = new Discord.Client();
 const smsm3 = new Discord.Client();
 const smsm4 = new Discord.Client();
@@ -2454,7 +2454,7 @@ smsm100.on("ready", () => {
 
 //////////////// token lera dabne/////////
 
-smsm.login("");
+smsm.login("ODgzMzM5NTk2NTQzNDQ3MDkw.YTIgQg.KuF6NvlIGsfYoAKTkkWtGcAvQ8w");
 smsm2.login("");
 smsm3.login("");
 smsm4.login("");
